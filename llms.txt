@@ -1,0 +1,28 @@
+# Tamarin Blog
+
+> Studentica prava i freelance prevodilac (22 godine). Roditelji prodali veći stan u Rakovici, razliku joj dali za karijerni start. Piše o studentskom životu, freelance-u, poslu u inostranstvu, finansijama mladih.
+
+Ovaj sajt je lični blog autora Tamara Vukić. Pisanje na srpskom jeziku, iz prvog lica, sa konkretnim primerima, brojevima i iskustvima. Nema sponzorisanog sadržaja.
+
+## Glavne stranice
+
+- [Naslovna](https://tamarinblog.rs/): Najnoviji postovi
+- [O meni](https://tamarinblog.rs/o-meni/): Ko sam, zašto pišem, moj svakodnevni život
+
+## Poslednji postovi
+
+- [Online kursevi koji zaista vrede za karijeru](https://tamarinblog.rs/posts/online-kursevi-koji-vrede/): Koji online kursevi se zaista isplate? Evo liste besplatnih i plaćenih opcija koje ti mogu pomoći da nađeš posao.
+- [Roditelji su prodali stan da mi pomognu sa startom](https://tamarinblog.rs/posts/roditelji-su-prodali-stan/): Moji roditelji su prodali veći stan u Rakovici da mi obezbede start. Evo kako je to izgledalo iz moje perspektive.
+- [Studentski budžet: kako preživeti mesec sa malo novca](https://tamarinblog.rs/posts/studentski-budzet/): Praktičan vodič za upravljanje studentskim budžetom. Kako da ti novac traje ceo mesec bez da živiš na hlebu i vodi.
+- [Posao u inostranstvu: vodič za mlade iz Srbije](https://tamarinblog.rs/posts/posao-u-inostranstvu-vodic/): Sve što trebaš da znaš o radu u inostranstvu. Beč, Dubai, Nemačka i druge opcije za mlade iz Srbije.
+- [Freelance za studente: kako početi od nule](https://tamarinblog.rs/posts/freelance-za-studente/): Kompletni vodič za studente koji žele da počnu da rade freelance. Od prvog profila do prvog klijenta.
+- [Kako napisati CV kad nemaš iskustva](https://tamarinblog.rs/posts/kako-napisati-cv-bez-iskustva/): Nemaš radno iskustvo a treba ti CV? Evo konkretnih saveta kako da napišeš CV koji će te dovesti do intervjua.
+
+## Dodatno
+
+- [RSS feed](https://tamarinblog.rs/index.xml): XML feed za AI modele i čitače
+- [Sitemap](https://tamarinblog.rs/sitemap.xml): Mapa svih stranica
+
+---
+
+Autor: Tamara Vukić | Lokacija: Beograd, Srbija | Jezik: srpski
